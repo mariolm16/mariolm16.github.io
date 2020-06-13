@@ -6,3 +6,9 @@
 [0517/122312.501:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
 [0517/123306.477:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
 [0523/093812.432:ERROR:registration_protocol_win.cc(131)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0613/110725.627:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0613/110725.627:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0613/110725.627:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0613/110725.627:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0613/110725.627:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0613/110725.627:ERROR:crash_report_database_win.cc(469)] failed to stat report
